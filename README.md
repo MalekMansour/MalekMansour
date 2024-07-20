@@ -27,7 +27,7 @@ YYC Scan is an innovative application designed to enhance user engagement by gam
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:ChatGPT-Logo.svg" />
+<img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="[https://commons.wikimedia.org/wiki/File:ChatGPT-Logo.svg](https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg)" />
 <img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <br />
 
