@@ -2,7 +2,7 @@
 
 **`Video Game Developer / Software Developer / Web Developer`**
 
-Hello, I'm Malek Mansour, a dedicated Software Developer currently enrolled in the Software Development program at the Southern Alberta Institute of Technology (SAIT) in Calgary, Canada.
+Hello, I'm Malek Mansour, a dedicated Software Developer currently enrolled in the Software Development program at the Southern Alberta Institute of Technology (SAIT) in Calgary, AB, Canada.
 
 I possess a versatile technical skill set, including proficiency in JavaScript, HTML5, CSS, Python, C#, Unity, MySQL, Oracle SQL, and more. My professional journey is highlighted by winning first place at prestigious hackathons such as YYC HACKS and SAIT HACK, where I led the development of groundbreaking applications like YYC Scan and TEDI.
 
