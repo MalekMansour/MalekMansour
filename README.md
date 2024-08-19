@@ -1,4 +1,4 @@
-# ⭐ Malek Mansour
+# 👋 Malek Mansour
 
 ![Malek Mansour Banner](https://yourcustomimageurl.com/banner.png)
 
