@@ -46,10 +46,10 @@ YYC Scan is an innovative application designed to enhance user engagement by gam
   <tr>
     <td>
       <a href="https://github.com/malekmansour/github-readme-stats">
-        <img src="https://github-contribution-stats.vercel.app/api/?username=malekmansour&show_icons=true&theme=radical" width="600" height="300" />
+        <img src="https://github-contribution-stats.vercel.app/api/?username=malekmansour&show_icons=true&theme=radical" width="1200" height="600" />
       </a>
     </td>
-    <td style="padding-left: 5px; vertical-align: top;">
+    <td style="padding-left: 20px; vertical-align: top;">
       <p>My current goal is to stay active in my development journey by consistently making contributions on GitHub, working on new projects, and gaining deeper expertise in HTML, CSS, and JavaScript. I'm also focused on completing my portfolio to showcase my skills and projects effectively. Right now, I'm working on a small Unity game using C#, which is an exciting opportunity to apply my programming knowledge in a creative context.</p>
     </td>
   </tr>
