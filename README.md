@@ -42,7 +42,7 @@ YYC Scan is an innovative application designed to enhance user engagement by gam
 
 ### 🔥 GitHub Contributions
  <a href="https://github.com/malekmansour/github-readme-stats">
-      <img src="https://github-contribution-stats.vercel.app/api/?username=malekmansour&show_icons=true&theme=radical" width="1200" height="600" />
+      <img src="https://github-contribution-stats.vercel.app/api/?username=malekmansour&show_icons=true&theme=radical" width="600" height="300" />
  </a>
  
 ---
