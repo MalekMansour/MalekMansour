@@ -9,7 +9,7 @@ I possess a versatile technical skill set, including proficiency in JavaScript, 
 YYC Scan is an innovative application designed to enhance user engagement by gamifying the exploration of Calgary, while TEDI is a community app for SAIT students, facilitating connections and providing valuable information through features like chat, discussion boards, and an OpenAI-powered chatbot. These projects utilized cutting-edge technologies such as Flutter, Dart, Firebase, Azure, Python, and various web development tools, demonstrating my ability to integrate complex systems and deliver user-centric solutions.
 
 - Email: malek24mansour@gmail.com
-- LinkedIn: https://www.linkedin.com/in/malek-mansour-aa3419284/
+- LinkedIn: https://www.linkedin.com/in/mansourmalek/ 
 
 ---
 
