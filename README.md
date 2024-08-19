@@ -1,7 +1,5 @@
 # 👋 Malek Mansour
 
-![Malek Mansour Banner](https://yourcustomimageurl.com/banner.png)
-
 **`Video Game Developer / Software Developer / Web Developer`**
 
 Hello, I'm Malek Mansour, a dedicated Software Developer currently enrolled in the Software Development program at the Southern Alberta Institute of Technology (SAIT) in Calgary, AB, Canada.
