@@ -1,5 +1,7 @@
 # ⭐ Malek Mansour
 
+![Malek Mansour Banner](https://yourcustomimageurl.com/banner.png)
+
 **`Video Game Developer / Software Developer / Web Developer`**
 
 Hello, I'm Malek Mansour, a dedicated Software Developer currently enrolled in the Software Development program at the Southern Alberta Institute of Technology (SAIT) in Calgary, AB, Canada.
@@ -35,11 +37,13 @@ YYC Scan is an innovative application designed to enhance user engagement by gam
 
 ### 📊 GitHub Stats
 
-![Malek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malekmansour&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekmansour&layout=compact&theme=gruvbox)
+![Malek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malekmansour&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekmansour&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 GitHub Contributions
 
-[![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=malekmansour&show_icons=true&theme=gruvbox)](https://github.com/malekmansour/github-readme-stats)
+[![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=malekmansour&show_icons=true&theme=radical)](https://github.com/malekmansour/github-readme-stats)
+
+---
