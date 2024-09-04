@@ -1,6 +1,6 @@
 # 👋 Malek Mansour
 
-**`Video Game Developer / Software Developer / Web Developer`**
+**`AI Developer / Software Developer / Web Developer /  Video Game Developer`**
 
 Hello, I'm Malek Mansour, a dedicated Software Developer currently enrolled in the Software Development program at the Southern Alberta Institute of Technology (SAIT) in Calgary, AB, Canada.
 
