@@ -44,13 +44,8 @@ YYC Scan is an innovative application designed to enhance user engagement by gam
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img align="left" alt="Replit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg"/>
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>   
-<img align="left" alt="MCreator" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=LUFYzxiDB82l&format=png&color=000000"/>    
-![image](https://github.com/user-attachments/assets/6829060d-a956-4b2e-a514-f85559e389a8)
-
-
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>     
 <br />
-
 
 ---
 
