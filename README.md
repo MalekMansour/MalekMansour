@@ -8,6 +8,9 @@ I possess a versatile technical skill set, including proficiency in React Native
 
 YYC Scan is an innovative application designed to enhance user engagement by gamifying the exploration of Calgary, while TEDI is a community app for SAIT students, facilitating connections and providing valuable information through features like chat, discussion boards, and an OpenAI-powered chatbot. These projects utilized cutting-edge technologies such as Flutter, Dart, Firebase, Azure, Python, and various web development tools, demonstrating my ability to integrate complex systems and deliver user-centric solutions.
 
+### Skills
+React Native, Javascript, Typescript, HTML, CSS, Python, C#, Unity, MySQL, Oracle SQL, MongoDB, PostgreSQL, Java, Eclipse, Android Studio, Flutter, Dart, Firebase, Git Bash, Shell, OpenAI, Figma, Google Cloud, Dockers, Postman
+
 ### Contact Me
 
 - Email: malek24mansour@gmail.com
