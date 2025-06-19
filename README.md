@@ -1,12 +1,12 @@
 # 👋 Malek Mansour
 
-**`Software Developer / Mobile Application Developer / AI Developer / Web Developer /  Video Game Developer`**
+**`Software Developer / Mobile Application Developer / AI Developer / Web Developer / Video Game Developer`**
 
-Hello, I'm Malek Mansour, a dedicated Software Developer currently enrolled in the Software Development program at the Southern Alberta Institute of Technology (SAIT) in Calgary, AB, Canada.
+Hello, I'm Malek Mansour, a passionate and versatile Software Developer who recently graduated from the Software Development program at the Southern Alberta Institute of Technology (SAIT) in Calgary, AB, Canada. I’m currently continuing my studies in Big Data Development at Collège de Bois-de-Boulogne in Québec.
 
-I possess a versatile technical skill set, including proficiency in React Native, JavaScript, HTML, CSS, Python, C#, Java, and more. My professional journey is highlighted by winning first place at prestigious hackathons such as YYC HACKS and SAIT HACK, where I helped with the development of groundbreaking applications like YYC Scan and TEDI.
+I possess a strong technical skill set and multilingual communication abilities (English, French, Arabic), with a proven track record in real-world projects and award-winning hackathons. My journey includes first place victories at YYC Hacks and SAIT Hack, where I played a key role in building innovative applications like YYC Scan and TEDI.
 
-YYC Scan is an innovative application designed to enhance user engagement by gamifying the exploration of Calgary, while TEDI is a community app for SAIT students, facilitating connections and providing valuable information through features like chat, discussion boards, and an OpenAI-powered chatbot. These projects utilized cutting-edge technologies such as Flutter, Dart, Firebase, Azure, Python, and various web development tools, demonstrating my ability to integrate complex systems and deliver user-centric solutions.
+YYC Scan is a gamified app designed to make discovering Calgary fun and rewarding by allowing users to earn points and level up as they visit local spots. TEDI is a SAIT student community app that provides essential tools like chat, discussion boards, and an OpenAI-powered chatbot to help students stay informed and connected. Both projects utilized technologies like Flutter, Dart, Firebase, Azure, Python, OpenAI API, and more—demonstrating my ability to blend frontend design with powerful backend logic and cloud services.
 
 ### Skills
 React Native, Javascript, Typescript, HTML, CSS, Python, C#, Unity, MySQL, Oracle SQL, MongoDB, PostgreSQL, Java, Eclipse, Android Studio, Flutter, Dart, Firebase, Git Bash, Shell, OpenAI, Figma, Google Cloud, Dockers, Postman
